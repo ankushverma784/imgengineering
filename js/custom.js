@@ -49,8 +49,9 @@ jQuery(function ($) {
 	if ($('#map').length > 0) {
 
 		var contactmap = {
-			lat: 40.742964,
-			lng: -73.992277
+			lat: 30.2939,
+			lng: 78.0579
+
 		};
 
 		$('#map')
